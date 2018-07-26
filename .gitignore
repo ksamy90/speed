@@ -3,3 +3,5 @@ src/playground/
 src/touch/
 src/tests/add.test.js
 public/dist/
+.env.test
+.env.development
